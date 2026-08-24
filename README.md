@@ -98,6 +98,11 @@ Because the parameters are physical, deployment faults are diagnosable: a drifti
 fouling, a drifting `Ea` means catalyst chemistry, a structured residual with stable parameters
 means the model itself is wrong.
 
+## Learning the model
+
+**New to this? Start with [TEACHING.md](TEACHING.md)** — a complete walkthrough from zero,
+assuming no chemistry and only basic ML.
+
 ## Repository
 
 ```
